@@ -8,6 +8,11 @@ Blender 5.2 add-on for importing model assets from **Macross VF-X2
 - standard `.TIM` textures, including TIM images embedded in MOD files; and
 - VFX2 `.TIX` VRAM-upload streams.
 
+This add-on complements
+[Tzeentchnet/Macross-VFX2-Recomp](https://github.com/Tzeentchnet/Macross-VFX2-Recomp),
+the modern host recompilation with Vulkan, PGXP, fast loading, English
+localization tooling, and diagnostic support.
+
 No game data is included. Extract assets from your own legally obtained copy.
 
 ## Sample imports
