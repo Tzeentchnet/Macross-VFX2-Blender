@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "io_scene_vfx2"
+version = "1.0.0"
+name = "Macross VF-X2 Model Importer"
+tagline = "Import VF-X2 TMD and MOD models with TIM and TIX textures"
+maintainer = "Macross VF-X2 Recompiled contributors"
+type = "add-on"
+
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
